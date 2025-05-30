@@ -234,3 +234,5 @@ jobs:
         path: _build/coverage
         retention-days: 7
 ```
+
+[![Coverage Status](https://coveralls.io/repos/github/tyrtir/laba05/badge.svg?branch=master)](https://coveralls.io/github/tyrtir/laba05?branch=master)
